@@ -8,7 +8,6 @@
 </div>
 
 <br />
-<br />
 <ul>
   <li>Scrum Master (SM) at XPert.</li>
   <li>Coordinator Web Team at XPert.</li>
