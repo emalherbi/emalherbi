@@ -7,6 +7,8 @@
   <a href="https://www.linkedin.com/in/emalherbi" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
+<br />
+<br />
 <ul>
   <li>Scrum Master (SM) at XPert.</li>
   <li>Coordinator Web Team at XPert.</li>
